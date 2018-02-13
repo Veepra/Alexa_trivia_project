@@ -1,15 +1,15 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open reindeer trivia",
-            "Alexa tell reindeer trivia to start a game",
-            "Alexa tell reindeer trivia I want to play"
+            "Alexa open Baby fun facts triviaa",
+            "Alexa tell Baby fun facts trivia to start a game",
+            "Alexa tell Baby fun facts trivia I want to play"
           ],
-          "name": "reindeer trivia",
+          "name": "Baby fun facts trivia",
           "description": "Sample Full Description"
         }
       },

@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.8b9a4b19-da80-4ea4-a282-3f850bc3e857",
+      "was_cloned": false,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-BabyFunFactsTrivia"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
